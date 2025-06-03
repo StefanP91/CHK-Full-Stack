@@ -413,6 +413,10 @@
 
     #modules {
         padding: 5% 0% !important;
+
+        & .left-side{
+            width: 100% !important;
+        }
     }
 
     & #modulesCarousel {
